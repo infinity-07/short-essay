@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}问题的引出}{2}{section.1}%
+\contentsline {section}{\numberline {2}三次样条插值的性质}{2}{section.2}%
+\contentsline {section}{\numberline {3}计算三次样条插值}{3}{section.3}%
+\contentsline {section}{\numberline {4}三次样条插值的理论推导}{4}{section.4}%
+\contentsline {section}{\numberline {5}示例演示}{5}{section.5}%
+\contentsline {section}{\numberline {6}代码附录}{7}{section.6}%
